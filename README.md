@@ -1,0 +1,2 @@
+# ZennUnusedImageDeleter
+Zennのリポジトリから未使用のPngファイルを削除するツール
