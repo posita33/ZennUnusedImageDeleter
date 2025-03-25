@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZennUnusedImageDeleter", "ZennUnusedImageDeleter\ZennUnusedImageDeleter.csproj", "{CDD49C69-8832-4230-B65E-EA4A1AB6B39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD49C69-8832-4230-B65E-EA4A1AB6B39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD49C69-8832-4230-B65E-EA4A1AB6B39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD49C69-8832-4230-B65E-EA4A1AB6B39C}.Debug|x64.ActiveCfg = Debug|x64
+		{CDD49C69-8832-4230-B65E-EA4A1AB6B39C}.Debug|x64.Build.0 = Debug|x64
+		{CDD49C69-8832-4230-B65E-EA4A1AB6B39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD49C69-8832-4230-B65E-EA4A1AB6B39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD49C69-8832-4230-B65E-EA4A1AB6B39C}.Release|x64.ActiveCfg = Release|x64
+		{CDD49C69-8832-4230-B65E-EA4A1AB6B39C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
